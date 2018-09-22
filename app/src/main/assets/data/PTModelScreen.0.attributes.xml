@@ -1,0 +1,1163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>99</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenStart</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>102</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenMainMenu</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>119</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Interstitials Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Ad Banner Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenMainMenuUI</string>
+                <key>openFrames</key>
+                <string>80</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>130</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPInfoScreen</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>139</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Interstitials Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Ad Banner Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPCoinShopScreen</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>158</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Interstitials Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Ad Banner Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPGameOverScreen</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1565</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Interstitials Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Ad Banner Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Loop Music</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 2</string>
+                <key>openFrames</key>
+                <string>1</string>
+                <key>idleFrames</key>
+                <string>600</string>
+                <key>closeFrames</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1598</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Interstitials Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Ad Banner Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 3</string>
+                <key>openFrames</key>
+                <string>1</string>
+                <key>idleFrames</key>
+                <string>600</string>
+                <key>closeFrames</key>
+                <string>200</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1631</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Interstitials Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Ad Banner Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Loop Music</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 1</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1828</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 5</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1926</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 7</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1974</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 9</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2030</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 11</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2062</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 13</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2094</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 15</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2158</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 17</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2206</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAds</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 19</string>
+                <key>openFrames</key>
+                <string>40</string>
+                <key>idleFrames</key>
+                <string>40</string>
+                <key>closeFrames</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2220</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Interstitials Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Ad Banner Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Loop Music</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 20</string>
+                <key>openFrames</key>
+                <string>1</string>
+                <key>idleFrames</key>
+                <string>600</string>
+                <key>closeFrames</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3276</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Interstitials Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Ad Banner Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Loop Music</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 21</string>
+                <key>openFrames</key>
+                <string>1</string>
+                <key>idleFrames</key>
+                <string>600</string>
+                <key>closeFrames</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3285</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Interstitials Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Ad Banner Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Loop Music</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 6</string>
+                <key>openFrames</key>
+                <string>1</string>
+                <key>idleFrames</key>
+                <string>600</string>
+                <key>closeFrames</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3294</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Interstitials Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Ad Banner Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Loop Music</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 8</string>
+                <key>openFrames</key>
+                <string>1</string>
+                <key>idleFrames</key>
+                <string>600</string>
+                <key>closeFrames</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3303</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Loop Music</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 10</string>
+                <key>openFrames</key>
+                <string>1</string>
+                <key>idleFrames</key>
+                <string>600</string>
+                <key>closeFrames</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3312</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Loop Music</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 12</string>
+                <key>openFrames</key>
+                <string>1</string>
+                <key>idleFrames</key>
+                <string>600</string>
+                <key>closeFrames</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3321</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Interstitials Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Ad Banner Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Loop Music</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 14</string>
+                <key>openFrames</key>
+                <string>1</string>
+                <key>idleFrames</key>
+                <string>600</string>
+                <key>closeFrames</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3330</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Loop Music</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 16</string>
+                <key>openFrames</key>
+                <string>1</string>
+                <key>idleFrames</key>
+                <string>600</string>
+                <key>closeFrames</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3339</string>
+                <key>className</key>
+                <string>PTModelScreen</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Ad Interstitial</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Ad Banner</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAdMob</string>
+                </dict>
+                <key>Loop Music</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Background Scene</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoBackground</string>
+                </dict>
+                <key>key</key>
+                <string>PTPScreenUi 22</string>
+                <key>openFrames</key>
+                <string>1</string>
+                <key>idleFrames</key>
+                <string>600</string>
+                <key>closeFrames</key>
+                <string>1</string>
+            </dict>
+        </array>
+    </dict>
+</plist>

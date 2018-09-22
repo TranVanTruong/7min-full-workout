@@ -1,0 +1,40 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion '26.0.2'
+
+    defaultConfig {
+        applicationId "com.workoutforWoman.exercice.home"
+        minSdkVersion 14
+        targetSdkVersion 24
+        multiDexEnabled true
+
+
+    }
+
+    dexOptions {
+        // Prevent OutOfMemory with MultiDex during the build phase
+        javaMaxHeapSize "4g"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            shrinkResources false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+
+
+    }
+    sourceSets.main {
+        jni.srcDirs = []// <-- disable automatic ndk-build call
+    }
+}
+
+dependencies {
+    compile('com.google.android.gms:play-services:+') { exclude module: 'support-v4' }
+    compile 'com.parse:parse-android:1.10.3'
+    compile('com.android.support:multidex:1.0.1') { exclude module: 'support-v4' }
+    implementation 'com.google.android.gms:play-services-ads:15.0.1'
+}
